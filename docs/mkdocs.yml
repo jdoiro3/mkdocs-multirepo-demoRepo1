@@ -2,5 +2,10 @@ edit_uri: /blob/master/
 
 nav:
   - Home: index.md
-  - Page1: page1.md
-  - Page2: page2.md
+  - Section1:
+      - 'Section1 Home': section1/index.md
+      - 'Getting Started': section1/getting-started.md
+  - Section2:
+      - 'Section2 Home': section2/index.md
+      - 'Getting Started': section2/getting-started.md
+  
