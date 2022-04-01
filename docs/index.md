@@ -1,7 +1,2 @@
-# Welcome to My Hello World Project
 
-This project prints `Hello World!`. Wow, isn't that really cool. It's all done in one line.
-
-```python
-print("Hello World!")
-```
+I'm okay even though my config file is outside the docs folder and is called multirepo.yml
