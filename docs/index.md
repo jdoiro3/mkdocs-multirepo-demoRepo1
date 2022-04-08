@@ -5,3 +5,7 @@ This project prints `Hello World!`. Wow, isn't that really cool. It's all done i
 ```python
 print("Hello World!")
 ```
+
+Here's an image!
+
+![Zelda](assets/images/zelda-dark-world.png)
