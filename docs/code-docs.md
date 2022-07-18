@@ -1,6 +1,6 @@
 # Documentation for `MyClass`
 
-::: src.module.MyClass
+::: module.MyClass
     handler: python
     options:
       members:
