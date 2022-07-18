@@ -1,6 +1,6 @@
 # Documentation for `MyClass`
 
-::: temp_dir.extraimports.src.module.MyClass
+::: extraimports.src.module.MyClass
     handler: python
     options:
       members:
