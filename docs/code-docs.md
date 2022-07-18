@@ -1,6 +1,6 @@
 # Documentation for `MyClass`
 
-::: extra-import.src.script.MyClass
+::: extra-imports.src.script.MyClass
     handler: python
     options:
       members:
