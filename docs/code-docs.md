@@ -1,6 +1,6 @@
 # Documentation for `MyClass`
 
-::: module.MyClass
+::: temp_dir.src.module.MyClass
     handler: python
     options:
       members:
