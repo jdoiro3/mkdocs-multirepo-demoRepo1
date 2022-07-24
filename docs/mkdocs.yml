@@ -1,8 +1,7 @@
 edit_uri: /blob/master/
 
 nav:
-  - Home: index.md
-  - ReadMe: README.md
+  - Home: README.md
   - Page1: page1.md
   - Page2: page2.md
   - 'Code Reference': code-docs.md
