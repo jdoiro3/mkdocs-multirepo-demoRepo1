@@ -4,5 +4,5 @@ use_directory_urls: false
 
 nav:
   - 'Getting Started Testing':             'README.md'
-  - 'Setup your development environment': 'docs/page1.md'
-  - 'Execute the tests automatically':     'docs/page2.md'
+  - 'Setup your development environment': 'page1.md'
+  - 'Execute the tests automatically':     'page2.md'
